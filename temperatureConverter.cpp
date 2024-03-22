@@ -1,12 +1,12 @@
 #include <iostream>
 
 /**
- * @temper: stores temperature value
- * @cel: performs conversion from celsius
+ * @temperature: stores temperature value
+ * @Celsius: performs conversion from celsius
  * to kelvin and fahrenheit.
- * @fah: performs conversion from fahrenheit
+ * @Fahrenheit: performs conversion from fahrenheit
  * to to kelvin and celsius.
- * @kel: performs conversion from kelvin to
+ * @Kelvin: performs conversion from kelvin to
  * fahrenheit and celsius
  */
 
@@ -76,6 +76,7 @@ class Kelvin : public temperature
  *
  * Return: 0 = always success
  */
+
 int main(void)
 {
     std::cout << "Temperature Converter of Choice\n\n";
