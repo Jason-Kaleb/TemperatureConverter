@@ -9,4 +9,4 @@
 
 # Tech Stack:
 
-* C++, Codeblocks
+* C++, Codeblocks👨‍💻
