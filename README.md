@@ -1,6 +1,6 @@
 # TemperatureConverter
 
-* This C++ program provides a user-friendly temperature converter
+* Thism is a C++ program that provides a user-friendly temperature converter.
 * It allows you to convert between Celsius, Fahrenheit, and Kelvin scales.
 * This program implements a class hierarchy for temperature conversion.
 * It includes a base class that stores a temperature value and a derived class that performs the conversion from one temperature unit to another.
