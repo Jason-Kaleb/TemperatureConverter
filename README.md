@@ -1,4 +1,4 @@
-# TemperatureConverter
+# Temperature Converter
 
 * Thism is a C++ program that provides a user-friendly temperature converter.
 * It allows one to convert between Celsius, Fahrenheit, and Kelvin scales.
@@ -9,4 +9,4 @@
 
 # Tech Stack:
 
-* C++,Codeblocks👨‍💻
+* C++, Codeblocks👨‍💻
